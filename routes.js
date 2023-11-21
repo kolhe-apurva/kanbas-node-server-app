@@ -1,4 +1,4 @@
-import db from "../Database/index.js";
+import db from "./Database/index.js";
 function OtherRoutes(app) {
   /*GET enrollments */
   app.get("/api/enrollments", (req, res) => {
