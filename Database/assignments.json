@@ -1,0 +1,152 @@
+[
+  {
+    "_id": "A101",
+    "title": "Propulsion Assignment",
+    "course": "RS101",
+    "due": "2022-09-08",
+    "points": "100",
+    "description": "Assignment related to propulsion systems",
+    "availableFromDate": "2022-09-01",
+    "availableUntilDate": "2022-09-08"
+  },
+  {
+    "_id": "A102",
+    "title": "Combustion Analysis",
+    "course": "RS101",
+    "due": "2022-09-18",
+    "points": "100",
+    "description": "Analysis of combustion processes in engines",
+    "availableFromDate": "2022-09-11",
+    "availableUntilDate": "2022-09-18"
+  },
+  {
+    "_id": "A103",
+    "title": "Nozzle Design Project",
+    "course": "RS101",
+    "due": "2022-09-28",
+    "points": "100",
+    "description": "Design project for creating efficient nozzles",
+    "availableFromDate": "2022-09-21",
+    "availableUntilDate": "2022-09-28"
+  },
+  {
+    "_id": "A201",
+    "title": "Aerodynamics Quiz",
+    "course": "RS102",
+    "due": "2022-10-08",
+    "points": "100",
+    "description": "Quiz on the principles of aerodynamics",
+    "availableFromDate": "2022-10-01",
+    "availableUntilDate": "2022-10-08"
+  },
+  {
+    "_id": "A202",
+    "title": "Flow Analysis",
+    "course": "RS102",
+    "due": "2022-10-18",
+    "points": "100",
+    "description": "Analysis of fluid flow in engineering applications",
+    "availableFromDate": "2022-10-11",
+    "availableUntilDate": "2022-10-18"
+  },
+  {
+    "_id": "A203",
+    "title": "Heating Analysis",
+    "course": "RS102",
+    "due": "2022-10-28",
+    "points": "100",
+    "description": "Analysis of heat transfer in various systems",
+    "availableFromDate": "2022-10-21",
+    "availableUntilDate": "2022-10-28"
+  },
+  {
+    "_id": "A301",
+    "title": "Structural Design Task",
+    "course": "RS103",
+    "due": "2022-11-08",
+    "points": "100",
+    "description": "Design task related to structural engineering",
+    "availableFromDate": "2022-11-01",
+    "availableUntilDate": "2022-11-08"
+  },
+  {
+    "_id": "A302",
+    "title": "Orbital Calculations",
+    "course": "RS103",
+    "due": "2022-11-18",
+    "points": "100",
+    "description": "Calculations related to orbital mechanics",
+    "availableFromDate": "2022-11-11",
+    "availableUntilDate": "2022-11-18"
+  },
+  {
+    "_id": "A303",
+    "title": "Systems Engineering Exam",
+    "course": "RS103",
+    "due": "2022-11-18",
+    "points": "100",
+    "description": "Exam covering various aspects of systems engineering",
+    "availableFromDate": "2022-11-11",
+    "availableUntilDate": "2022-11-18"
+  },
+  {
+    "_id": "A401",
+    "title": "Introduction to Fashion",
+    "course": "FM104",
+    "due": "2022-11-08",
+    "points": "100",
+    "description": "Introduction to the basics of fashion industry",
+    "availableFromDate": "2022-11-01",
+    "availableUntilDate": "2022-11-08"
+  },
+  {
+    "_id": "A402",
+    "title": "Merchandising Exam",
+    "course": "FM104",
+    "due": "2022-11-18",
+    "points": "100",
+    "description": "Exam on merchandising principles and practices",
+    "availableFromDate": "2022-11-11",
+    "availableUntilDate": "2022-11-18"
+  },
+  {
+    "_id": "A403",
+    "title": "Basics of Marketing",
+    "course": "FM104",
+    "due": "2022-11-18",
+    "points": "100",
+    "description": "Fundamental concepts of marketing in the fashion industry",
+    "availableFromDate": "2022-11-11",
+    "availableUntilDate": "2022-11-18"
+  },
+  {
+    "_id": "A501",
+    "title": "Exam on System Design",
+    "course": "CS105",
+    "due": "2022-11-08",
+    "points": "100",
+    "description": "Exam covering the principles of system design",
+    "availableFromDate": "2022-11-01",
+    "availableUntilDate": "2022-11-08"
+  },
+  {
+    "_id": "A502",
+    "title": "Basics of Computing",
+    "course": "CS105",
+    "due": "2022-11-18",
+    "points": "100",
+    "description": "Fundamental concepts of computing and programming",
+    "availableFromDate": "2022-11-11",
+    "availableUntilDate": "2022-11-18"
+  },
+  {
+    "_id": "A503",
+    "title": "Coding Practices",
+    "course": "CS105",
+    "due": "2022-11-18",
+    "points": "100",
+    "description": "Practical coding exercises and practices",
+    "availableFromDate": "2022-11-11",
+    "availableUntilDate": "2022-11-18"
+  }
+]
