@@ -34,5 +34,10 @@ function ModuleRoutes(app) {
     };
     res.sendStatus(204);
   });
+  /*GET modules */
+  app.get("/api/modules", (req, res) => {
+    const modules = db.modules;
+    res.send(modules);
+  });
 }
 export default ModuleRoutes;

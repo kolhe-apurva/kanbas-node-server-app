@@ -35,5 +35,10 @@ function AssignmentRoutes(app) {
     };
     res.sendStatus(204);
   });
+  /*GET assignments */
+  app.get("/api/assignments", (req, res) => {
+    const assignments = db.assignments;
+    res.send(assignments);
+  });
 }
 export default AssignmentRoutes;
